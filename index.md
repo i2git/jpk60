@@ -42,7 +42,7 @@ The colloqium will take place on **7 November 2024** and will consist of a festi
 
 ## Registration
 
-To appear.
+TBA
 
 ## Questions
 
