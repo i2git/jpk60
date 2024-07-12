@@ -38,7 +38,7 @@ The colloqium will take place on **7 November 2024** and will consist of a festi
 |                                    | Prof. Laura Kovacs (Vienna University of Technology, AT): Probably the Best Moment to Loop                                                                                                                                                                                                   |
 |                                    | Prof. Marta Kwiatkowska (University of Oxford, UK): Expectation vs. Reality: Towards Verification of Psychological Games                                                                                                                                                                     |
 |                                    | Prof. Pedro D’Argenio (National University of Cordoba, AR): Stochastic Event Structures + Timed Automata -> Modest                                                                                                                                                                           |
-| **from 19:30**                     | Dinner at [La Fabrik](https://www.la-fabrik.de/kontakt)                                                                                                                                                                                                                                      |
+| **from 19:30**                     | Dinner at [La Fabrik](https://maps.app.goo.gl/Swcp6CUuXfZCC1Vf6)                                                                                                                                                                                                                                      |
 
 ## Registration
 
