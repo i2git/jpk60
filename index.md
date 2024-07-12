@@ -10,7 +10,7 @@ The colloqium will take place on **7 November 2024** and will consist of a festi
 
 **Date:** 7 November 2024
 
-**Location:** TBA, Aachen, Germany
+**Location:** [Forum M in Mayersche Buchhandlung](https://maps.app.goo.gl/7Zx6u8NJ6r86XSi4A), Aachen, Germany
 
 | Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;                                                                                                                                          | Speaker |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
