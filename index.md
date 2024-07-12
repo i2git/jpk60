@@ -12,7 +12,7 @@ The colloqium will take place on **7 November 2024** and will consist of a festi
 
 **Location:** TBA, Aachen, Germany
 
-| <div style="width:250px">Time</div>                                                                                                                                           | Speaker |
+| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                          | Speaker |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **10:00 - 11:00**                  | **Opening**                                                                                                                                                                                                                                                                                  |
 |                                    | Prof. Marieke Huisman (Head of Formal Methods and Tools Group at the University of Twente, NL)                                                                                                                                                                                               |
