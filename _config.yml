@@ -1,7 +1,12 @@
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+#theme: jekyll-theme-cayman
 
 github:
   is_project_page: false
 
 title: Symposium Joost-Pieter Katoen
 description: Celebration event on the occasion of Joost-Pieter's 60th birthday
+show_downloads: false
+logo: logo.jpeg
