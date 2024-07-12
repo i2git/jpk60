@@ -1,6 +1,6 @@
 # Colloquium on Principles of Verification: Cycling the Probabilistic Landscape
 
-On the occasion of Joost-Pieter Katoen's 60th birthday, which will be in October of this year, there will be a special colloqium to celebrate his achievements and personal engagement.
+On the occasion of Joost-Pieter Katoen's 60th birthday in October 2024, there will be a special colloqium to celebrate his achievements and personal engagement.
 
 The colloqium will take place on **7 November 2024** and will consist of a festive part with selected invited talks followed by a dinner.
 
@@ -12,7 +12,7 @@ The colloqium will take place on **7 November 2024** and will consist of a festi
 
 **Location:** TBA, Aachen, Germany
 
-| <div style="width:200px">Time</div>                                                                                                                                           | Speaker |
+| <div style="width:250px">Time</div>                                                                                                                                           | Speaker |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **10:00 - 11:00**                  | **Opening**                                                                                                                                                                                                                                                                                  |
 |                                    | Prof. Marieke Huisman (Head of Formal Methods and Tools Group at the University of Twente, NL)                                                                                                                                                                                               |
