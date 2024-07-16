@@ -8,9 +8,9 @@ The colloqium will take place on **Thursday, 7 November 2024** at [**Forum M in 
 
 ## Programme
 
-| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; | Speaker |
+| Time | Speaker |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **10:00 - 11:00**                  | **Opening**                                                                                                                                                                                                                                                                                  |
+| **10:00&nbsp;&#x2011;&nbsp;11:00**                  | **Opening**                                                                                                                                                                                                                                                                                  |
 |                                    | Prof. Marieke Huisman (Head of Formal Methods and Tools Group at the University of Twente, NL)                                                                                                                                                                                               |
 |                                    | Prof. Carsten Honerkamp (Dean of Faculty of Mathematics, Computer Science, and Natural Sciences, RWTH Aachen University)                                                                                                                                                                     |
 |                                    | Prof. Bastian Leibe (Spokesperson of Computer Science Department, RWTH Aachen University)                                                                                                                                                                                                    |
