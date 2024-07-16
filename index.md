@@ -2,17 +2,13 @@
 
 On the occasion of Joost-Pieter Katoen's 60th birthday in October 2024, there will be a special colloqium to celebrate his achievements and personal engagement.
 
-The colloqium will take place on **7 November 2024** and will consist of a festive part with selected invited talks followed by a dinner.
+The colloqium will take place on **Thursday, 7 November 2024** at [**Forum M in Mayersche Buchhandlung**](https://maps.app.goo.gl/7Zx6u8NJ6r86XSi4A), Aachen, Germany, and will consist of a festive part with selected invited talks followed by a dinner at [La Fabrik](https://maps.app.goo.gl/Swcp6CUuXfZCC1Vf6).
 
 
 
-## Program
+## Programme
 
-**Date:** Thursday, 7 November 2024
-
-**Location:** [Forum M in Mayersche Buchhandlung](https://maps.app.goo.gl/7Zx6u8NJ6r86XSi4A), Aachen, Germany
-
-| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                                                                                          | Speaker |
+| Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; | Speaker |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **10:00 - 11:00**                  | **Opening**                                                                                                                                                                                                                                                                                  |
 |                                    | Prof. Marieke Huisman (Head of Formal Methods and Tools Group at the University of Twente, NL)                                                                                                                                                                                               |
@@ -40,9 +36,13 @@ The colloqium will take place on **7 November 2024** and will consist of a festi
 |                                    | Prof. Pedro D’Argenio (National University of Cordoba, AR): Stochastic Event Structures + Timed Automata -> Modest                                                                                                                                                                           |
 | **from 19:30**                     | Dinner at [La Fabrik](https://maps.app.goo.gl/Swcp6CUuXfZCC1Vf6)                                                                                                                                                                                                                                      |
 
+## Accommodation
+
+Hotel accommodation is available via [Aachen Tourist Service](https://www.aachen-tourismus.de/en/aachen/ukv), [HRS.com](https://www.hrs.com), or [Booking.com](https://www.booking.com/). If you need further assistance, please contact <jpk60orga@i2.informatik.rwth-aachen.de>.
+
 ## Registration
 
-TBA
+Registration is possible on personal invitation.
 
 ## Questions
 
