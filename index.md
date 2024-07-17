@@ -46,4 +46,4 @@ Registration is possible on personal invitation.
 
 ## Questions
 
-If you have any questions, please write an e-mail to ```jpk60orga (at) i2 (dot) informatik (dot) rwth-aachen (dot) de```.
+If you you need further assistance or have any questions, please write an e-mail to ```jpk60orga (at) i2 (dot) informatik (dot) rwth-aachen (dot) de```.
