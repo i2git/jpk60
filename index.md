@@ -2,7 +2,7 @@
 
 On the occasion of Joost-Pieter Katoen's 60th birthday in October 2024, there will be a special colloqium to celebrate his achievements and personal engagement.
 
-The colloqium will take place on **Thursday, 7 November 2024** at **[Forum M in Mayersche Buchhandlung](https://maps.app.goo.gl/7Zx6u8NJ6r86XSi4A)**, Aachen, Germany, and will consist of a festive part with selected invited talks followed by a dinner at [La Fabrik](https://maps.app.goo.gl/Swcp6CUuXfZCC1Vf6).
+The colloqium will take place on **Thursday, 7 November 2024** at **[Forum M in Mayersche Buchhandlung](https://maps.app.goo.gl/7Zx6u8NJ6r86XSi4A)**, Aachen, Germany, and will consist of a festive part with selected invited talks followed by a **dinner at [La Fabrik](https://maps.app.goo.gl/Swcp6CUuXfZCC1Vf6)**.
 
 
 
