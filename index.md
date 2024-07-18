@@ -42,7 +42,7 @@ Hotel accommodation is available via [Aachen Tourist Service](https://www.aachen
 
 ## Registration
 
-Registration is possible on personal invitation.
+Registration is possible by personal invitation only.
 
 ## Questions
 
