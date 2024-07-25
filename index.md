@@ -48,7 +48,7 @@ Registration is possible by personal invitation only.
 
 - [Nils Jansen](https://nilsjansen.org), Ruhr University Bochum, DE
 - [Sebastian Junges](https://sjunges.github.io), Radboud University, Nijmegen, NL
-- [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbrücken, DE
+- [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbrücken, DE & University College London, UK
 - [Christoph Matheja](https://cmath.eu/), Technical University of Denmark, Kopenhagen, DK
 - [Thomas Noll](https://moves.rwth-aachen.de/people/noll/), RWTH Aachen University, DE
 - [Tim Quatmann](https://moves.rwth-aachen.de/people/quatmann/), RWTH Aachen University, DE
