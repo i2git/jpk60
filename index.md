@@ -38,7 +38,7 @@ The colloqium will take place on **Thursday, 7 November 2024** at **[Forum M in 
 
 ## Accommodation
 
-Hotel accommodation is available via [Aachen Tourist Service](https://www.aachen-tourismus.de/en/aachen/ukv), [HRS.com](https://www.hrs.com), or [Booking.com](https://www.booking.com/).
+We kindly ask all participants including invited speakers to make travel arrangements themselves (with our assistance, if needed). Hotel accommodation is available via [Aachen Tourist Service](https://www.aachen-tourismus.de/en/aachen/ukv), [HRS.com](https://www.hrs.com), or [Booking.com](https://www.booking.com/). One recommendation would be [Motel One](https://maps.app.goo.gl/rr9SekbDvCyixqg57), as it is rather close to both the colloquium and the dinner place.
 
 ## Registration
 
