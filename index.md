@@ -44,6 +44,17 @@ We kindly ask all participants including invited speakers to make travel arrange
 
 Registration is possible by personal invitation only.
 
+## Organisers
+
+- [Nils Jansen](https://nilsjansen.org), Ruhr University Bochum, DE
+- [Sebastian Junges](https://sjunges.github.io), Radboud University, Nijmegen, NL
+- [Benjamin Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski/), Saarland University, Saarbrücken, DE
+- [Christoph Matheja](https://cmath.eu/), Technical University of Denmark, Kopenhagen, DK
+- [Thomas Noll](https://moves.rwth-aachen.de/people/noll/), RWTH Aachen University, DE
+- [Tim Quatmann](https://moves.rwth-aachen.de/people/quatmann/), RWTH Aachen University, DE
+- [Marielle Stoelinga](https://people.utwente.nl/m.i.a.stoelinga), University of Twente, NL
+- [Matthias Volk](https://research.tue.nl/en/persons/matthias-volk), Eindhoven University of Technology, NL
+
 ## Questions
 
 If you you need further assistance or have any questions, please write an e-mail to ```jpk60orga (at) i2 (dot) informatik (dot) rwth-aachen (dot) de```.
