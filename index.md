@@ -36,14 +36,14 @@ The event will be followed by a **dinner at [La Fabrik](https://maps.app.goo.gl/
 |                                    | Prof. Laura Kovacs (Vienna University of Technology, AT): Probably the Best Moment to Loop                                                                                                                                                                                                   |
 |                                    | Prof. Marta Kwiatkowska (University of Oxford, UK): Expectation vs. Reality: Towards Verification of Psychological Games                                                                                                                                                                     |
 |                                    | Prof. Pedro D’Argenio (National University of Cordoba, AR): Stochastic Event Structures + Timed Automata -> Modest                                                                                                                                                                           |
-| **from&nbsp;19:30**                | Dinner at La Fabrik                     |
+| **from&nbsp;19:30**                | Dinner                   |
 
 ## Dinner at [La Fabrik](https://www.la-fabrik.de)
 
-- Address: [Bachstraße 20, 52066 Aachen](https://maps.app.goo.gl/Swcp6CUuXfZCC1Vf6)
-- [20 min walk](https://www.google.com/maps/dir/Mayersche+Aachen,+Buchkremerstraße+1-7,+52062+Aachen/La+Fabrik,+Bachstraße+20,+52066+Aachen/@50.7711707,6.0867376,16z/data=!3m2!4b1!5s0x47c09be0620ee76b:0xc60d09d3f6da3c48!4m14!4m13!1m5!1m1!1s0x47c0996358972b07:0x22d00224010aa263!2m2!1d6.0864013!2d50.7752591!1m5!1m1!1s0x47c09bb04175df41:0xe0be64cc70f645a6!2m2!1d6.0972513!2d50.7672197!3e2?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
-- [Bus Elisenbrunnen -> Normaluhr](https://www.google.com/maps/dir/Elisenbrunnen,+Friedrich-Wilhelm-Platz,+52062+Aachen/Aachen,+Normaluhr,+52070+Aachen/@50.771166,6.0848748,16z/data=!3m2!4b1!5s0x47c09be0620ee76b:0xc60d09d3f6da3c48!4m14!4m13!1m5!1m1!1s0x47c0996312556c85:0x8eb3785ac7865d2e!2m2!1d6.0869838!2d50.7740678!1m5!1m1!1s0x47c09bdff3c9410b:0xfd4246ddf34beecc!2m2!1d6.0954796!2d50.7699729!3e3?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
-- [Parking Bachstraße](https://maps.app.goo.gl/gW1W86iEDfhvdVvh8)
+The restaurant is located at [Bachstraße 20, 52066 Aachen](https://maps.app.goo.gl/Swcp6CUuXfZCC1Vf6). It is reachable by
+- [20 min walk](https://www.google.com/maps/dir/Mayersche+Aachen,+Buchkremerstraße+1-7,+52062+Aachen/La+Fabrik,+Bachstraße+20,+52066+Aachen/@50.7711707,6.0867376,16z/data=!3m2!4b1!5s0x47c09be0620ee76b:0xc60d09d3f6da3c48!4m14!4m13!1m5!1m1!1s0x47c0996358972b07:0x22d00224010aa263!2m2!1d6.0864013!2d50.7752591!1m5!1m1!1s0x47c09bb04175df41:0xe0be64cc70f645a6!2m2!1d6.0972513!2d50.7672197!3e2?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D),
+- [Bus Elisenbrunnen -> Normaluhr](https://www.google.com/maps/dir/Elisenbrunnen,+Friedrich-Wilhelm-Platz,+52062+Aachen/Aachen,+Normaluhr,+52070+Aachen/@50.771166,6.0848748,16z/data=!3m2!4b1!5s0x47c09be0620ee76b:0xc60d09d3f6da3c48!4m14!4m13!1m5!1m1!1s0x47c0996312556c85:0x8eb3785ac7865d2e!2m2!1d6.0869838!2d50.7740678!1m5!1m1!1s0x47c09bdff3c9410b:0xfd4246ddf34beecc!2m2!1d6.0954796!2d50.7699729!3e3?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D), or
+- by car using [Parking Bachstraße](https://maps.app.goo.gl/gW1W86iEDfhvdVvh8).
 
 ## Accommodation
 
