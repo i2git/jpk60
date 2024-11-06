@@ -8,22 +8,22 @@ The alumni day will take place on **Friday, 8 November 2024** in room 9222 (top 
 
 | Time                               | Speaker                                                                                            |
 |:-----------------------------------|:---------------------------------------------------------------------------------------------------|
-| **10:00&nbsp;&#x2011;&nbsp;10:45** | **1st session**                                                                                    |
+| **10:00&nbsp;&#x2011;&nbsp;10:45** | **1st session** (chair: Matthias Volk)                                                             |
 |                                    | Birgit Willms: *Joost-Pieter - Best Boss!*                                                         |
 |                                    | Thomas Noll: *33 Years at i2 and Beyond*                                                           |
 |                                    | Nils Jansen: *Back to the MOVES: Model Checking meets Artificial Intelligence*                     |
 | **10:45&nbsp;&#x2011;&nbsp;11:45** | **Coffee break**                                                                                   |
-| **11:45&nbsp;&#x2011;&nbsp;12:30** | **2nd Session**                                                                                    |
+| **11:45&nbsp;&#x2011;&nbsp;12:30** | **2nd Session** (chair: Sebastian Junges)                                                          |
 |                                    | Benjamin Kaminski: *A Modal Logic for Iteration*                                                   |
 |                                    | Christoph Matheja: *What model checking with graph grammars can teach you about Rust verification* |
 |                                    | Viet Yen Nguyen: *Reading Newspapers: where LLM meets theorem proving*                             |
 | **12:30&nbsp;&#x2011;&nbsp;14:00** | **Lunch break**                                                                                    |
-| **14:00&nbsp;&#x2011;&nbsp;14:45** | **3rd Session**                                                                                    |
+| **14:00&nbsp;&#x2011;&nbsp;14:45** | **3rd Session** (chair: Tim Quatmann)                                                              |
 |                                    | Sebastian Junges: *Tom & Matthieu op Zondagmiddag: Mouwen opstropen en doorfietsen*                |
 |                                    | Benedikt Bollig: *Automata Learning for Streaming Data*                                            |
 |                                    | David N. Jansen: *A Scenario Approach for Parametric Markov Decision Processes*                    |
 | **14:45&nbsp;&#x2011;&nbsp;15:45** | **Coffee break**                                                                                   |
-| **15:45&nbsp;&#x2011;&nbsp;16:15** | **4th Session**                                                                                    |
+| **15:45&nbsp;&#x2011;&nbsp;16:15** | **4th Session** (chair: Kevin Batz)                                                                |
 |                                    | Tim Quatmann: *Current MOVES in probabilistic model checking*                                      |
 |                                    | Matthias Volk: *Zen and the Art of Bicycle Maintenance*                                            |
 
