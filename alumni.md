@@ -39,10 +39,12 @@ The alumni day will take place on **Friday, 8 November 2024** in room 9222 (top 
 - [Marielle Stoelinga](https://people.utwente.nl/m.i.a.stoelinga), University of Twente, NL
 - [Matthias Volk](https://research.tue.nl/en/persons/matthias-volk), Eindhoven University of Technology, NL
 
+## Sponsors
+
+We are generously supported by 
+
+![image](itestra.png)
+
 ## Questions
 
 If you have any questions, please write an e-mail to ```jpk60orga (at) i2 (dot) informatik (dot) rwth-aachen (dot) de```.
-
-With generous support by 
-
-![image](itestra.png)
