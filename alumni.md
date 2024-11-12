@@ -21,10 +21,10 @@ The alumni day will take place on **Friday, 8 November 2024** in room 9222 (top 
 | **14:00&nbsp;&#x2011;&nbsp;14:45** | **3rd Session** (chair: Tim Quatmann)                                                              |
 |                                    | Sebastian Junges: *Tom & Matthieu op Zondagmiddag: Mouwen opstropen en doorfietsen*                |
 |                                    | Benedikt Bollig: *Automata Learning for Streaming Data*                                            |
-|                                    | David N. Jansen: *A Scenario Approach for Parametric Markov Decision Processes*                    |
+|                                    | David N. Jansen: [*A Scenario Approach for Parametric Markov Decision Processes*](djansen.pdf)     |
 | **14:45&nbsp;&#x2011;&nbsp;15:45** | **Coffee break**                                                                                   |
 | **15:45&nbsp;&#x2011;&nbsp;16:15** | **4th Session** (chair: Kevin Batz)                                                                |
-|                                    | Tim Quatmann: *Current MOVES in probabilistic model checking*                                      |
+|                                    | Tim Quatmann: [*Current MOVES in probabilistic model checking*](quatmann.pdf)                      |
 |                                    | Matthias Volk: *Zen and the Art of Bicycle Maintenance*                                            |
 
 
