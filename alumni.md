@@ -10,7 +10,7 @@ The alumni day will take place on **Friday, 8 November 2024** in room 9222 (top 
 |:-----------------------------------|:---------------------------------------------------------------------------------------------------|
 | **10:00&nbsp;&#x2011;&nbsp;10:45** | **1st session** (chair: Matthias Volk)                                                             |
 |                                    | Birgit Willms: *Joost-Pieter - Best Boss!*                                                         |
-|                                    | Thomas Noll: *33 Years at i2 and Beyond*                                                           |
+|                                    | Thomas Noll: [*33 Years at i2 and Beyond*](noll.pdf)                                               |
 |                                    | Nils Jansen: *Back to the MOVES: Model Checking meets Artificial Intelligence*                     |
 | **10:45&nbsp;&#x2011;&nbsp;11:45** | **Coffee break**                                                                                   |
 | **11:45&nbsp;&#x2011;&nbsp;12:30** | **2nd Session** (chair: Sebastian Junges)                                                          |
