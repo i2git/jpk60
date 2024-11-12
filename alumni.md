@@ -25,7 +25,7 @@ The alumni day will take place on **Friday, 8 November 2024** in room 9222 (top 
 | **14:45&nbsp;&#x2011;&nbsp;15:45** | **Coffee break**                                                                                   |
 | **15:45&nbsp;&#x2011;&nbsp;16:15** | **4th Session** (chair: Kevin Batz)                                                                |
 |                                    | Tim Quatmann: [*Current MOVES in probabilistic model checking*](quatmann.pdf)                      |
-|                                    | Matthias Volk: *Zen and the Art of Bicycle Maintenance*                                            |
+|                                    | Matthias Volk: [*Zen and the Art of Bicycle Maintenance*](volk.pdf)                                            |
 
 
 ## Organisers
