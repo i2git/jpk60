@@ -1,8 +1,8 @@
 # Alumni Day
 
-On the occasion of Joost-Pieter Katoen's 60th birthday in October 2024, there will be a special colloqium to celebrate his achievements and personal engagement.
+On the occasion of Joost-Pieter Katoen's 60th birthday in October 2024, there will be a special [**Colloquium on Principles of Verification**](index.md) to celebrate his achievements and personal engagement.
 
-The alumni day will take place on **Friday, 8 November 2024** in room 9222 (top floor) of the **[E3 building](https://www.informatik.rwth-aachen.de/cms/informatik/fachgruppe/informatik-zentrum/~most/lageplaene/?lidx=1) of the CS department**, Aachen, Germany.
+The associated **Alumni Day** will take place on **Friday, 8 November 2024** in room 9222 (top floor) of the **[E3 building](https://www.informatik.rwth-aachen.de/cms/informatik/fachgruppe/informatik-zentrum/~most/lageplaene/?lidx=1) of the CS department**, Aachen, Germany.
 
 ## Programme
 
